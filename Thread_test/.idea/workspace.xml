@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76984437-6183-4111-9458-aa43dbb502f3" name="Default Changelist" comment="" />
+    <list default="true" id="76984437-6183-4111-9458-aa43dbb502f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,12 +99,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594021365218</updated>
-      <workItem from="1594021368772" duration="636000" />
+      <workItem from="1594021368772" duration="997000" />
     </task>
+    <task id="LOCAL-00001" summary="代码修改">
+      <created>1594022173417</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594022173417</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="代码修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="代码修改" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Notifications" timestamp="1594021605947">
@@ -113,5 +127,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1594021717087" />
+    <state x="362" y="4" key="CommitChangelistDialog2" timestamp="1594022165556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1594022165556" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1594022360586">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594022360586" />
   </component>
 </project>
